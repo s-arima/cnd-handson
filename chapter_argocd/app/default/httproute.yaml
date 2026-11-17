@@ -8,7 +8,7 @@ spec:
     namespace: gateway
     sectionName: http
   hostnames:
-  - app-argocd.example.com
+  - app-argocd.vm05.handson.cloudnativedays.jp
   rules:
   - matches:
     - path:
